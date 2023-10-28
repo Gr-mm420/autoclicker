@@ -7,10 +7,10 @@ After running the executable, The clicking is started by pressing F6 key. This k
 ### Powershell
 Example usages:
 - `./{PATH_TO_EXECUTABLE}/autoclicker.exe` starts the autoclicker, with default value 1 click per second.
-- - `./{PATH_TO_EXECUTABLE}/autoclicker.exe 5` starts the autoclicker, doing 5 clicks per second.
-- - - `./{PATH_TO_EXECUTABLE}/autoclicker.exe -h`  prints a help message.
+- `./{PATH_TO_EXECUTABLE}/autoclicker.exe 5` starts the autoclicker, doing 5 clicks per second.
+- `./{PATH_TO_EXECUTABLE}/autoclicker.exe -h`  prints a help message.
 ### Command Prompt
 Example usages:
 - `start autoclicker.exe` starts the autoclicker, with default value 1 click per second.
-- - `start autoclicker.exe 10` starts the autoclicker, doing 10 clicks per second.
-- - - `start autoclicker.exe -h` prints a help message.
+- `start autoclicker.exe 10` starts the autoclicker, doing 10 clicks per second.
+- `start autoclicker.exe -h` prints a help message.
